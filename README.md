@@ -4,11 +4,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=satriabrianydn.satriabrianydn&left_text=Profile%20views"  />
 </div>
 
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=2zxkz64s7g9a5ko83klwwtn03&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=dark" />
-  </a>
-</div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2zxkz64s7g9a5ko83klwwtn03&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2zxkz64s7g9a5ko83klwwtn03&redirect=true)
 
 ###
 
