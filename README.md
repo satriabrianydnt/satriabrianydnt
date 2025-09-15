@@ -83,6 +83,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/satriabrianydn/satriabrianydn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/satriabrianydnt/satriabrianydnt/output/snake.svg" alt="Snake animation" />
 
 ###
