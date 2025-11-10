@@ -27,7 +27,7 @@
 - 🏫 I am currently studying as an **Informatics Engineering Student**
 - 💬 Ask me about **Web Development, Mobile Development**
 - ⚡ Fun fact: I like listening to music too
-- 🎮 Half Game, Half Coding xD
+- 🎮 Half time Game, Half time Coding xD
 
 ###
 
