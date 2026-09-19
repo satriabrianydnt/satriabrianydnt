@@ -10,12 +10,6 @@
   <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3dnA5MGp1MXJwajg5NTZ0Y2NjajA2ZnN6YjAxcXg3b3o5aDEzbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SJXzadwbexJEAZ9S1B/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satriabrianydnt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satriabrianydnt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
