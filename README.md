@@ -17,12 +17,12 @@
 
 ###
 
-- 🌱 Currently learning as **Backend Developer**
-- 🏫 I am currently studying as an **Informatics Engineering Student**
+- 🌱 Currently growing as a **Backend Developer**
+- 🎓 Informatics Engineering Graduate
 - 💬 Ask me about **Web Development, Mobile Development**
 - ⚡ Fun fact: I like listening to music too
-- 🎮 Half time Game, Half time Coding xD
-
+- 🎮 Half time Gaming, Half time Coding xD
+  
 ###
 
 <h2 align="left">🖥️ Languages & Tools</h2>
